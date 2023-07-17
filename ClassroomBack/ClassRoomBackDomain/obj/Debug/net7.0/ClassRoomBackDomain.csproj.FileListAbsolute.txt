@@ -1,0 +1,12 @@
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\bin\Debug\net7.0\ClassRoomBackDomain.deps.json
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\bin\Debug\net7.0\ClassRoomBackDomain.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\bin\Debug\net7.0\ClassRoomBackDomain.pdb
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.csproj.AssemblyReference.cache
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.GeneratedMSBuildEditorConfig.editorconfig
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.AssemblyInfoInputs.cache
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.AssemblyInfo.cs
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.csproj.CoreCompileInputs.cache
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\refint\ClassRoomBackDomain.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.pdb
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ref\ClassRoomBackDomain.dll

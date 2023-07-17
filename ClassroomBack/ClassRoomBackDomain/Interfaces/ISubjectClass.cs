@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ClassRoomBackDomain.Interfaces
 {
-    internal interface IClass
+    internal interface ISubjectClass
     {
+        int ClassId { get; set; }
+        string ClassName { get; set; }
+        ICollection<IStudent> Student { get; set; }
     }
 }
