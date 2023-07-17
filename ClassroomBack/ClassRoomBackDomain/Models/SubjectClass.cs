@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ClassRoomBackDomain.Models
 {
-    [Table("SubjectClass")]
+    [Table("Classes")]
     public class SubjectClass : ISubjectClass
     {
         public SubjectClass()
@@ -21,7 +21,7 @@ namespace ClassRoomBackDomain.Models
         public int ClassId { get; set; }
         [Required]
         [StringLength(80)]
-        public string? ClassName { get; set; }
-        public ICollection<IStudent>? Students { get ; set ; }
+        public string ClassName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public ICollection<IStudent> Students { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }
