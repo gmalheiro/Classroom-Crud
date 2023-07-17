@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EmZTOTnKjdvg7/c9lMD99EfGqtdECmJ8jXPA86uCJfhXNFI40F/qHFqBvVAwQG0mgmOTlPE85LeF4D2Nqi/z4g==",
+  "dgSpecHash": "MgNroJv686oNyKNVSTkfDzrU45qW0kv4a3ea/adbqyb2TMM6qeOy9arMV5VuqCikMSxaDPvkpyBcXkgb3TTjSA==",
   "success": true,
   "projectFilePath": "F:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassRoomBackDomain\\ClassRoomBackDomain.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,8 @@
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
