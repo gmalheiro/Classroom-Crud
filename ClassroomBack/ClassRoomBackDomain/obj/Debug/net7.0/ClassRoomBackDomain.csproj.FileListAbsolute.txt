@@ -10,3 +10,5 @@ F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\refint\ClassRoomBackDomain.dll
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.pdb
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ref\ClassRoomBackDomain.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\bin\Debug\net7.0\ClassRoomBackDomain.runtimeconfig.json
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassRoomBackDomain\obj\Debug\net7.0\ClassRoomBackDomain.genruntimeconfig.cache

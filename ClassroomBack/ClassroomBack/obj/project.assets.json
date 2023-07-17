@@ -1146,6 +1146,8 @@
     "net7.0": [
       "ClassRoomBackDomain >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.9",
+      "Microsoft.EntityFrameworkCore >= 7.0.9",
+      "Npgsql >= 7.0.4",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -1196,6 +1198,14 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[7.0.9, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.9, )"
+          },
+          "Npgsql": {
+            "target": "Package",
+            "version": "[7.0.4, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

@@ -33,3 +33,8 @@ F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\obj\Debug\
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\obj\Debug\net7.0\ClassroomBack.pdb
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\obj\Debug\net7.0\ClassroomBack.genruntimeconfig.cache
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\obj\Debug\net7.0\ref\ClassroomBack.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Npgsql.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
