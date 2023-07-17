@@ -38,3 +38,12 @@ F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Npgsql.dll
 F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Humanizer.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\System.CodeDom.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\MySqlConnector.dll
+F:\A Projects\Full-stack\ClassRoomOfElite\ClassroomBack\ClassroomBack\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll

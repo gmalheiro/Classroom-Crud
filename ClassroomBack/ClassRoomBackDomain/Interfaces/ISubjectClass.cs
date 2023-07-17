@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClassRoomBackDomain.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,6 @@ namespace ClassRoomBackDomain.Interfaces
     {
         int ClassId { get; set; }
         string ClassName { get; set; }
-        ICollection<IStudent> Students { get; set; }
+        ICollection<Student> Students { get; set; }
     }
 }

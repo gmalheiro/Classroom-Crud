@@ -15,13 +15,13 @@ namespace ClassRoomBackDomain.Models
     {
         public SubjectClass()
         {
-            Students = new Collection<IStudent>();
+            Students = new Collection<Student>();
         }
         [Key]
         public int ClassId { get; set; }
         [Required]
         [StringLength(80)]
         public string ClassName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public ICollection<IStudent> Students { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public ICollection<Student> Students { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }

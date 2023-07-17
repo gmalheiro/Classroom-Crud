@@ -1,4 +1,4 @@
-﻿using ClassRoomBackDomain.Interfaces;
+﻿using ClassRoomBackDomain.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -13,8 +13,8 @@ namespace ClassRoomBackDomain.Context
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {}
 
-        public DbSet<IStudent> Students { get; set; }
-        public DbSet<ISubjectClass> Classes { get; set; }
+        public DbSet<Student> Students { get; set; }
+        public DbSet<SubjectClass> Classes { get; set; }
 
     }
 }

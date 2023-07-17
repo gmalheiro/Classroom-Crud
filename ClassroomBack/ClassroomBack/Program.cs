@@ -1,6 +1,10 @@
 using ClassRoomBackDomain.Context;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +16,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 string? postGreSqlConnection = builder.Configuration.GetConnectionString("LocalDbConnection");
+builder.Services.AddDbContext<AppDbContext>(options=> options.UseNpgsql(postGreSqlConnection));
 
-builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(postGreSqlConnection));
 
 var app = builder.Build();
 
