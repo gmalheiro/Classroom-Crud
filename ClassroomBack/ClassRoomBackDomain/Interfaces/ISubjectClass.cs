@@ -11,6 +11,7 @@ namespace ClassRoomBackDomain.Interfaces
     {
         int ClassId { get; set; }
         string ClassName { get; set; }
+        int StudentId { get; set; }
         ICollection<Student> Students { get; set; }
     }
 }
