@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "snu/3/obObxzfJFL6C0zDYjz4Pc3AxPPzg+DcWsAdQLeyeFqnZGGnqViJBosFMMEkFDAWDVbejg9MnXdqqSe5Q==",
+  "dgSpecHash": "oUft+akEV8FEDgbHPIIOjR9YNBFecsHVpFMATcGyzGzIKleTS/Dk2CHpQ3qH9NoYPNzNhrCbLJsksNeoK9RhVg==",
   "success": true,
   "projectFilePath": "F:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassRoomBackDomain\\ClassRoomBackDomain.csproj",
   "expectedPackageFiles": [
@@ -103,10 +103,7 @@
     "C:\\Users\\gabri\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.5\\microsoft.netcore.app.ref.7.0.5.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.5\\microsoft.windowsdesktop.app.ref.7.0.5.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.5\\microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512"
+    "C:\\Users\\gabri\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

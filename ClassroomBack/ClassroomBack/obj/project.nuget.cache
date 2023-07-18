@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uvalcHbFav1y83Dz06C9Asj5BZFUYEej6YmLNITRv9gZnQoIHhSQYlvouFzgmnF4hTddL+Ov3ifh6z650IiXeA==",
+  "dgSpecHash": "FOUC4hfXqGwUAM4b3x4V5+w57yWpTuGXDJobP+3xM2RFsyjTpfTCMUVZCTDwPmj2XuLSoueNmtLViH0WkJC8ig==",
   "success": true,
   "projectFilePath": "F:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassroomBack\\ClassroomBack.csproj",
   "expectedPackageFiles": [
@@ -239,11 +239,7 @@
     "C:\\Users\\gabri\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.5\\microsoft.netcore.app.ref.7.0.5.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.5\\microsoft.windowsdesktop.app.ref.7.0.5.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.5\\microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.5\\microsoft.netcore.app.host.win-x64.7.0.5.nupkg.sha512"
+    "C:\\Users\\gabri\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

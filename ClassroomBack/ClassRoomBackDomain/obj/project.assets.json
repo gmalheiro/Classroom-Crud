@@ -5724,11 +5724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassRoomBackDomain\\ClassRoomBackDomain.csproj",
+      "projectUniqueName": "F:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassRoomBackDomain\\ClassRoomBackDomain.csproj",
       "projectName": "ClassRoomBackDomain",
-      "projectPath": "f:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassRoomBackDomain\\ClassRoomBackDomain.csproj",
+      "projectPath": "F:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassRoomBackDomain\\ClassRoomBackDomain.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "f:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassRoomBackDomain\\obj\\",
+      "outputPath": "F:\\A Projects\\Full-stack\\ClassRoomOfElite\\ClassroomBack\\ClassRoomBackDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5801,26 +5801,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.5, 7.0.5]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.5, 7.0.5]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.5, 7.0.5]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.5.23303.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

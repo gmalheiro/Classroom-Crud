@@ -22,7 +22,7 @@ namespace ClassRoomBackDomain.Models
         [StringLength(80)]
         public string Surname { get => throw new NotImplementedException(); set => throw new NotImplementedException();}  
         [JsonIgnore]
-        public ICollection<SubjectClass> Class { get => throw new NotImplementedException(); set => throw new NotImplementedException();    }
+        public SubjectClass Class { get => throw new NotImplementedException(); set => throw new NotImplementedException();    }
         public int ClassId { get; set; } 
     }
 }
