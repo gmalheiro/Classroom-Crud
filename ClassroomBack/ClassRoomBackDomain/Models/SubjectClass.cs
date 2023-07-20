@@ -25,5 +25,6 @@ namespace ClassRoomBackDomain.Models
         [ForeignKey(nameof(Student))]
         public int StudentId { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public ICollection<Student> Students { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int ClassCode { get ; set; }
     }
 }
