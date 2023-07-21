@@ -8,5 +8,8 @@ namespace ClassRoomBackDomain.Interfaces
 {
     public interface IStudentRepository
     {
+
+        List<Dtos.StudentResponseModelDTO> ListAll();
+
     }
 }

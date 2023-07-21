@@ -1,4 +1,6 @@
 using ClassRoomBackDomain.Context;
+using ClassRoomBackDomain.Interfaces;
+using ClassRoomBackDomain.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.Extensions.Configuration;
@@ -17,7 +19,7 @@ builder.Services.AddSwaggerGen();
 
 string? postGreSqlConnection = builder.Configuration.GetConnectionString("LocalDbConnection");
 builder.Services.AddDbContext<AppDbContext>(options=> options.UseNpgsql(postGreSqlConnection));
-
+builder.Services.AddScoped<IStudentRepository, StudentsRepository>();
 
 var app = builder.Build();
 

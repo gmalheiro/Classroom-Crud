@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ClassRoomBackDomain.Context;
+using ClassRoomBackDomain.Interfaces;
 
 namespace ClassRoomBackDomain.Repository
 {
-    public class StudentsRepository
+    public class StudentsRepository : IStudentRepository
     {
         private readonly AppDbContext _context;
 

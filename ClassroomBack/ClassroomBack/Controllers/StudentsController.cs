@@ -1,5 +1,6 @@
 ﻿using ClassRoomBackDomain.Dtos;
 using ClassRoomBackDomain.Interfaces;
+using ClassRoomBackDomain.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,18 +10,21 @@ namespace ClassroomBack.Controllers
     [ApiController]
     public class StudentsController : ControllerBase
     {
-        private readonly ClassRoomBackDomain.Repository.StudentsRepository _studentsRepository;
+        private readonly IStudentRepository _studentsRepository;
 
-        public StudentsController(ClassRoomBackDomain.Repository.StudentsRepository studentsRepository)
+        public StudentsController(IStudentRepository studentsRepository)
         {
             _studentsRepository = studentsRepository;
         }
 
         [HttpGet]
         [Route("/ListAll")]
-        public List<StudentResponseModelDTO> ListAll()
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<StudentResponseModelDTO>))]
+        public IActionResult ListAll()
         {
-            return _studentsRepository.ListAll();
+            List<StudentResponseModelDTO> students = _studentsRepository.ListAll();
+
+            return Ok(students);
         }
 
     }
